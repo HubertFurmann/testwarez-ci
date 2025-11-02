@@ -6,6 +6,11 @@ Cieszę się, że wybrałeś mój warsztat :)
 
 Aby zweryfikować środowisko, którego będziemy używać podczas warsztatu, proszę wykonaj kroki opisane w sekcji **INSTRUKCJE DO WARSZTATU**.
 
+## Przydatne Linki
+
+- Notatki: https://docs.google.com/document/d/1JfIuWjgBbResKPTzrceji3g5GSt9QvJpXweh9UNjCpE/edit?usp=sharing
+- Zadania i Rozwiązania: https://drive.google.com/drive/folders/1dnDwlfVnKyG71WMr8D9qgV8IbELYT5zo?usp=sharing
+  
 ## INSTRUKCJE DO WARSZTATU
 
 Upewnij się, że przychodzisz na warsztat z **laptopem** – najlepiej z systemem **Windows**.  
