@@ -67,9 +67,9 @@ jobs:
         uses: dawidd6/action-send-mail@v3
         if: always()
         with:
-          server_address: ${{ secrets.SMTP_SERVER }}
-          server_port: ${{ secrets.SMTP_PORT }}
-          username: ${{ secrets.SMTP_USERNAME }}
+          server_address: ${{ variables.SMTP_SERVER }}
+          server_port: ${{ variables.SMTP_PORT }}
+          username: ${{ variables.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
           subject: "${{ job.status == 'success' && '✅ Build Succeeded' || '❌ Build Failed' }} - ${{ github.repository }}"
           html_body: >
@@ -80,5 +80,5 @@ jobs:
             <p>Branch: <b>${{ github.ref_name }}</b></p>
             <p>Check the details on <a href="${{ github.server_url }}/actions">GitHub Actions</a>.</p>
             </body></html>
-          to: ${{ secrets.RECIPIENT_EMAIL }}
-          from: ${{ secrets.SMTP_USERNAME }}
+          to: ${{ variables.RECIPIENT_EMAIL }}
+          from: ${{ variables.SMTP_USERNAME }}
