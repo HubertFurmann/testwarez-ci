@@ -1,0 +1,61 @@
+[33mcommit acbaba850ea79d1de4470e213d9d3567a2821d9f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/test-branch-1[m[33m, [m[1;31morigin/feature/test-branch-1[m[33m)[m
+Author: Hubert Furmann <hubertfurmann@gmail.com>
+Date:   Wed Nov 5 14:21:27 2025 +0100
+
+    test fail
+
+[33mcommit 1b7e20154174fcc6d4f5637b82a7ea234a07e3a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: tklepacki <t.klepacki@wp.pl>
+Date:   Sun Nov 2 01:23:14 2025 +0100
+
+    Update README.md
+
+[33mcommit 0c3ab6c1d33a3639328a242bc9526ed9c6cf9ed0[m
+Author: tklepacki <t.klepacki@wp.pl>
+Date:   Sun Nov 2 01:22:03 2025 +0100
+
+    Add useful links section to README
+    
+    Added useful links for workshop participants.
+
+[33mcommit a55d08f02ebbc7d2f34fb563ad3454d47bef7570[m
+Author: tklepacki <t.klepacki@wp.pl>
+Date:   Sun Nov 2 00:37:10 2025 +0100
+
+    Update users.py
+
+[33mcommit 3d4efbe2e7b2510575fc79f9d5662f4c860a8454[m
+Author: tklepacki <t.klepacki@wp.pl>
+Date:   Tue Sep 30 19:33:20 2025 +0200
+
+    Update README.md
+
+[33mcommit 8721249d7a5df8414d8dd725ee9260b5f34cb7f3[m
+Author: tklepacki <t.klepacki@wp.pl>
+Date:   Tue Sep 30 19:31:02 2025 +0200
+
+    Update README.md
+
+[33mcommit a8cb93f1c2f76f8d75b197a1d6c0b7389d86f980[m
+Author: tklepacki <t.klepacki@wp.pl>
+Date:   Tue Sep 30 19:27:23 2025 +0200
+
+    Update README.md
+
+[33mcommit d86338f7be2f9bd8a5d100f263d55f6a88b43280[m
+Author: tklepacki <t.klepacki@wp.pl>
+Date:   Tue Sep 30 19:25:01 2025 +0200
+
+    Update README.md
+
+[33mcommit b12903f5e8f8c6266d6f81274765ac4e7f5c6e8a[m
+Author: tklepacki <t.klepacki@wp.pl>
+Date:   Tue Sep 30 19:20:33 2025 +0200
+
+    Delete .DS_Store
+
+[33mcommit eb675e1fd2f69dc35441c9072032278f42a3b110[m
+Author: tklepacki <t.klepacki@thesignalgroup.com>
+Date:   Tue Sep 30 19:16:29 2025 +0200
+
+    Inital commit
